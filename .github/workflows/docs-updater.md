@@ -20,6 +20,7 @@ safe-outputs:
     title-prefix: "[docs] "
     draft: true
     allowed-files:
+      - "*.md"
       - "**/*.md"
     excluded-files:
       - ".github/workflows/**"
