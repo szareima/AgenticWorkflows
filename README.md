@@ -367,7 +367,7 @@ Use Copilot Chat in VS Code Agent mode or run `copilot` from the repository root
 ```text
 Create a workflow for GitHub Agentic Workflows using https://raw.githubusercontent.com/github/gh-aw/main/create.md.
 
-Do not install, upgrade, or downgrade gh-aw. Use the installed v0.83.1 CLI.
+Do not install, upgrade, or downgrade gh-aw. Use the installed v0.83.2 CLI.
 
 Create or complete .github/workflows/<workflow-id>.md.
 
