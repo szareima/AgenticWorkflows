@@ -18,6 +18,6 @@ public sealed class WeakCoverageTests
 
         var summary = service.GetSummary();
 
-        Assert.False(string.IsNullOrWhiteSpace(summary.Health));
+        Assert.NotEmpty(summary.Health);
     }
 }
